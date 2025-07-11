@@ -5,7 +5,7 @@
 
 - Ask me about **Web development, UI/UX design, and creative workflows**
 
-- 📫 How to reach me **ash43890@gmail.com**
+- How to reach me **ash43890@gmail.com**
 
 - Know about my experiences [https://tinyurl.com/wthmd252](https://tinyurl.com/wthmd252)
 
