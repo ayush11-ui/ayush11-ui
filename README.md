@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ayush</h1>
 <h3 align="center">Aspiring Software Engineer | UI/UX Designer | Tech Enthusiast</h3>
 
-- You can view my Graphic Design work here [https://www.dropbox.com/scl/fi/fsbv7jrofoy3se9b58b12/portfolio-compressed.pdf?rlkey=xcm1jvypjyj1f5l2plehk3wau&e=1&st=c0rz6ak4&dl=0](https://www.dropbox.com/scl/fi/fsbv7jrofoy3se9b58b12/portfolio-compressed.pdf?rlkey=xcm1jvypjyj1f5l2plehk3wau&e=1&st=c0rz6ak4&dl=0)
+- You can view my Graphic Design work here [https://www.dropbox.com/scl/fi/fsbv7jrofoy3se9b58b12/portfolio-compressed.pdf?rlkey=xcm1jvypjyj1f5l2plehk3wau&e=1&st=c0rz6ak4&dl=0](https://tinyurl.com/5dtmukey)
 
 - Ask me about **Web development, UI/UX design, and creative workflows**
 
 - 📫 How to reach me **ash43890@gmail.com**
 
-- Know about my experiences [https://www.dropbox.com/scl/fi/g5vch73vgp6yshb1g1iju/Resume-2.pdf?rlkey=yhl9z03h8xuz6rd7tyyvfo45l&st=4ux4sk0e&dl=0](https://www.dropbox.com/scl/fi/g5vch73vgp6yshb1g1iju/Resume-2.pdf?rlkey=yhl9z03h8xuz6rd7tyyvfo45l&st=4ux4sk0e&dl=0)
+- Know about my experiences [https://www.dropbox.com/scl/fi/g5vch73vgp6yshb1g1iju/Resume-2.pdf?rlkey=yhl9z03h8xuz6rd7tyyvfo45l&st=4ux4sk0e&dl=0](https://tinyurl.com/wthmd252)
 
 - Fun fact **On a mission to blur the line between developer and designer.**
 
