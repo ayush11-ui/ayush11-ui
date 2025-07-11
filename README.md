@@ -23,4 +23,11 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayush11-ui&show_icons=true&locale=en&layout=compact" alt="ayush11-ui" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayush11-ui&" alt="ayush11-ui" /></p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ayush11-ui&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=ayush11-ui&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ayush11-ui&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=ayush11-ui&icon=0&color=0)](https://visitcount.itsvg.in)
+
