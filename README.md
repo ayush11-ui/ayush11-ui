@@ -24,9 +24,20 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayush11-ui&show_icons=true&locale=en&layout=compact" alt="ayush11-ui" /></p>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ayush11-ui&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ayush11-ui&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ayush11-ui&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=ayush11-ui&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
+    </td>
+    <td>
+      <img src="https://nirzak-streak-stats.vercel.app/?user=ayush11-ui&theme=dark&hide_border=false" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayush11-ui&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+    </td>
+  </tr>
+</table>
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ayush11-ui&icon=0&color=0)](https://visitcount.itsvg.in)
