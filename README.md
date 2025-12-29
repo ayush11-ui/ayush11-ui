@@ -82,7 +82,7 @@
 
 <br/>
 
-<h3 align="center" style="font-family: Poppins, sans-serif; font-weight: bold;">📊 Most Used Languages</h3>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ayush11-ui&show_icons=true&locale=en&layout=compact" alt="ayush11-ui" />
 </p>
