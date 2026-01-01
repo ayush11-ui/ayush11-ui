@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ayush</h1>
-<h3 align="center">Aspiring Software Engineer | UI/UX Designer | Tech Enthusiast</h3>
+<h1 align="center">Hi 👋, I'm Ayush Kumar</h1>
+<h3 align="center">Aspiring Software Engineer | UI/UX Designer | Tech Anchor</h3>
 
 - You can view my Graphic Design work here [https://tinyurl.com/5dtmukey](https://tinyurl.com/5dtmukey)
 
